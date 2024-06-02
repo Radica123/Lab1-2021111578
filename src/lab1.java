@@ -10,7 +10,7 @@ import com.mxgraph.layout.mxOrganicLayout;
 import com.mxgraph.model.mxCell;
 //To explore strange new worlds,
 //To seek out new life and new civilizations AFTER
-public class lab1 {
+public class lab1 {           
     public lab1() {
 
     }
